@@ -1,6 +1,6 @@
 # Projeto - Sistema de Biblioteca
 
- Desenvolvido com PHP.
+ Desenvolvido com PHP modelo DAO.
 
 ## OBJETIVO E FUNCIONALIDADES:
  <p>Desenvolvimento de um Sistema de Gerenciamento de Biblioteca, para compor horas sociais do Curso de Sistemas de Informação</p>
